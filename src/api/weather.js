@@ -5,7 +5,7 @@ export const keyApi = 'iGCjNM7pGTHKCz04rDK2DCnfQMKIWtxo'
 
 
 export const axiosInstance = axios.create({
-    baseURL: 'http://dataservice.accuweather.com/',
+    baseURL: 'https://dataservice.accuweather.com/',
     // headers: { 'X-Custom-Header': 'foobar' },
     headers: {
         'Accept': 'application/json',
