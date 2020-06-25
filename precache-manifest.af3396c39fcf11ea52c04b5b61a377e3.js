@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef4dc7139f3b8c0548ab40c6dd0afde2",
+    "revision": "771509eed3651b823fa7c8664037c888",
     "url": "/Barak-Cohen-22-06-2020/index.html"
   },
   {
-    "revision": "2d07d4ddf2d95d981f5e",
+    "revision": "b4553d59df201309f461",
     "url": "/Barak-Cohen-22-06-2020/static/css/main.df9d7ffa.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Barak-Cohen-22-06-2020/static/js/2.c61e61b5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2d07d4ddf2d95d981f5e",
-    "url": "/Barak-Cohen-22-06-2020/static/js/main.d171e893.chunk.js"
+    "revision": "b4553d59df201309f461",
+    "url": "/Barak-Cohen-22-06-2020/static/js/main.3d39cbff.chunk.js"
   },
   {
     "revision": "7573272f687fd17326a7",

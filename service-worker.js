@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Barak-Cohen-22-06-2020/precache-manifest.307b7d9130c1dda7c061bd9af23af352.js"
+  "/Barak-Cohen-22-06-2020/precache-manifest.af3396c39fcf11ea52c04b5b61a377e3.js"
 );
 
 self.addEventListener('message', (event) => {
